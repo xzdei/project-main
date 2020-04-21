@@ -1,0 +1,6 @@
+[submodule "app/component"]
+	path = app/component
+	url = https://github.com/xzdei/component.git
+[submodule "app/permission"]
+	path = app/permission
+	url = https://github.com/xzdei/permission.git
